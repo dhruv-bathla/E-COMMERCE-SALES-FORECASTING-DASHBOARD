@@ -1,7 +1,9 @@
 # Architecture, Logical Deep-Dive & Interview Guide
 ### E-Commerce Sales Forecasting Dashboard
 *Author: Dhruv Bathla*
-*these are for you if you intend to give interviews based on this project*
+
+
+*These are for you if you intend to give interviews based on this project*
 
 ---
 
